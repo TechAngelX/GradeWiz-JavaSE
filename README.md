@@ -1,18 +1,10 @@
 # GradeWiz ✔ (Java SE Version / Cross-Platform)
 <table>
-Welcome to GradeWiz! 🎓✨
-
+<h3>Welcome to GradeWiz!</h3> 🎓✨
 
 GradeWiz is a simple and intuitive Java application to help students calculate their module grades based on component weightings and scores. Whether you're managing your coursework, projects, or exams, GradeWiz provides an easy way to determine your overall module mark.
 
-Certainly! Here are a few alternative ways to rephrase that message:
-
-For those who are less tech-savvy, you can download the full standalone MacOS app as a .dmg file here:
-
-[GradeWiz.dmg](https://github.com/TechAngelX/GradeWiz-JavaSE/releases/tag/1.0)
-
-## Source Code
-
+Quick Tip: For those who are less tech-savvy, you can download the full standalone MacOS app as a .dmg file here: [GradeWiz.dmg](https://github.com/TechAngelX/GradeWiz-JavaSE/releases/tag/1.0)
 <table>
 
   <tr>
